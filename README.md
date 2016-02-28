@@ -1,7 +1,7 @@
 # meme
 
 [![Build Status](https://travis-ci.org/mijecu25/meme.svg?branch=comment-recognizer)](https://travis-ci.org/mijecu25/meme)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/miguelvelezmj25/meme/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/miguelvelezmj25/meme/comment-recognizer/LICENSE)
 
 ## License
 
